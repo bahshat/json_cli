@@ -1,6 +1,7 @@
 # Manim JSON Generator (mgen) 🎬
 
 A blazing fast, interactive CLI tool built in Rust to generate scene configurations for Manim animations.
+Note: This tool is helper tool for Manim-Animation-Scene Based flow creation for this project (https://github.com/bahshat/Animation-Python).
 
 ## ✨ Features
 - **Interactive Prompts**: No more manual JSON syntax errors.
