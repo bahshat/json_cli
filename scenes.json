@@ -1,0 +1,11 @@
+[
+  {
+    "layout": "bullets",
+    "text": "testing",
+    "duration": 5,
+    "points": [
+      "1. First",
+      "2. Second"
+    ]
+  }
+]
